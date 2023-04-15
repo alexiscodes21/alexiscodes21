@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Alexis</h1>
 <h3 align="center">A frontend developer based in Houston.</h3>
 
-- 🔭 I’m currently working on **a Google Clone using React and Bootstrap**
+- 🔭 I’m currently working on **a Google Clone using React**
 
 - 🌱 I’m currently learning **React and React Native**
 
