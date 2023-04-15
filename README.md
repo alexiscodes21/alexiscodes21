@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and React Native**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-379706.web.app](https://personal-portfolio-379706.web.app)
+- 👨‍💻 All of my projects are available at [https://personal-portfolio-379706.web.app](https://personal-portfolio-379706.web.app). It's available to see but also currently under construction.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
