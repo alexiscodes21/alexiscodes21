@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-379706.web.app](https://personal-portfolio-379706.web.app)
 
-- 💬 Ask me about **javascript, react, bootstrap.**
+- 💬 Ask me about **javascript, react, bootstrap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
