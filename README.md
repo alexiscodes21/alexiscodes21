@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Alexis Winters</h1>
 <h3 align="center">A front-end web and mobile developer based in Houston.</h3>
 
-- 🔭 I’m currently working on [a Google Clone using React. The MVP is complete. I'm looking to go back and implement dark mode under the settings menu and to also create the Apps menu on the Apps icon.](https://clone-f757f.web.app/)
+- 🔭 I’m currently working on [a Google Clone using React](https://clone-f757f.web.app/)
 
 - 🌱 I’m currently learning **React Native**
 
