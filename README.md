@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Alexis Winters</h1>
 <h3 align="center">A front-end web and mobile developer based in Houston.</h3>
 
-- 🔭 I’m currently working on **a quiz app using React Native**
+- 🔭 I’m currently working on **a to do using React Native**
 
 - 🌱 I’m currently learning **React Native**
 
