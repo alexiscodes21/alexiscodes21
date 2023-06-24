@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Alexis Winters</h1>
-<h3 align="center">A full stack web and mobile developer, with a passion for front-end development, based in Virginia.</h3>
+<h3 align="center">A full stack web and mobile developer based in Virginia.</h3>
 
 - 🔭 I’m currently working on **React projects**
 
