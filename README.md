@@ -11,15 +11,15 @@
 
 - [My Credly Account](https://www.credly.com/users/alexis-winters/badges)
 
-- [IT Support Professional - Google by Coursera](https://github.com/alexiscodes21)
+- [IT Support Professional - Google by Coursera](https://github.com/alexiscodes21) need to update
 
-- [Full Stack Web and Mobile Development - Nucamp Coding Bootcamp](https://github.com/alexiscodes21)
+- [Full Stack Web and Mobile Development - Nucamp Coding Bootcamp](https://github.com/alexiscodes21) need to update
 
-- [Introduction to SQL - Codecademy](https://github.com/alexiscodes21)
+- [Introduction to SQL - Codecademy](https://github.com/alexiscodes21) need to update
 
-- [Introduction to Cybersecurity - Codecademy](https://github.com/alexiscodes21)
+- [Introduction to Cybersecurity - Codecademy](https://github.com/alexiscodes21) need to update
 
-- [PMI Certified Associate in Project Management](https://github.com/alexiscodes21)
+- [PMI Certified Associate in Project Management](https://github.com/alexiscodes21) need to update
 
 
 <h2 align="left">💁🏽‍♀️ More About Me</h2>
