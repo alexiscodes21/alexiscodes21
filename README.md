@@ -2,12 +2,6 @@
 <h2 align="center">an IT Support Specialist and Web Developer based in Virginia.</h3>
 <h4 align="center">I love to create web development projects for fun and it has become one of my hobbies. But my main passion and goal has been to work in IT/Cybersecurity.</h4>
 
-- 🔭 I’m currently working on the **Google Cybersecurity certificate**
-
-- 👯 I’m looking to collaborate on **any software development projects**
-
-- 👨‍💻 My web developer portfolio is available at [https://alexiswinters.tech](https://alexiswinters.tech)
-
 <h2 align="left">💻 IT Projects</h2>
 
 - [Active Directory Home Lab](https://github.com/alexiscodes21) in progress
@@ -17,7 +11,7 @@
 
 - [My Credly Account](https://www.credly.com/users/alexis-winters/badges)
 
-- [IT Support Professional - Google by Coursera]([https:](https://github.com/alexiscodes21)
+- [IT Support Professional - Google by Coursera](https://github.com/alexiscodes21)
 
 - [Full Stack Web and Mobile Development - Nucamp Coding Bootcamp](https://github.com/alexiscodes21)
 
@@ -30,7 +24,7 @@
 
 <h2 align="left">💁🏽‍♀️ More About Me</h2>
 
-- 🔭 I’m currently working on the **Google Cybersecurity certificate**
+- 🔭 I’m currently working on the **Google Cybersecurity Professional certificate**
 
 - 👯 I’m looking to collaborate on **any software development projects**
 
