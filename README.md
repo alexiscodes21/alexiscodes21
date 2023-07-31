@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏽, I'm Alexis Winters</h1>
-<h3 align="center">an IT Support Specialist and Web Developer based in Virginia.</h3>
-<h4 align="center">I love to create web development projects for fun and it has become one of my hobbies. But my main passion and goal has been to work in IT/Cybersecurity</h4>
+<h2 align="center">an IT Support Specialist and Web Developer based in Virginia.</h3>
+<h3 align="center">I love to create web development projects for fun and it has become one of my hobbies. But my main passion and goal has been to work in IT/Cybersecurity.</h4>
 
-<h3 align="left">IT Projects</h3>
+<h2 align="left">IT Projects</h2>
 - [Active Directory Home Lab] (https://github.com/alexiswinters21)
 
-<h3 align="left">Certifications</h3>
+<h2 align="left">Certifications</h2>
 - insert certs here
 
 - 🔭 I’m currently working on the **Google Cybersecurity certificate**
