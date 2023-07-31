@@ -9,13 +9,14 @@
 - 👨‍💻 My web developer portfolio is available at [https://alexiswinters.tech](https://alexiswinters.tech)
 
 <h2 align="left">💻 IT Projects</h2>
-- [<u>Active Directory Home Lab</u>](https://github.com/alexiscodes21) in progress
+- [Active Directory Home Lab](https://github.com/alexiscodes21) in progress
 
 
 <h2 align="left">📃 Certifications</h2>
 - insert certs here
 
 <h2 align="left">💁🏽‍♀️ More About Me</h2>
+
 - 🔭 I’m currently working on the **Google Cybersecurity certificate**
 
 - 👯 I’m looking to collaborate on **any software development projects**
