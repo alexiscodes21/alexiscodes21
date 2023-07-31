@@ -9,7 +9,7 @@
 - 👨‍💻 My web developer portfolio is available at [https://alexiswinters.tech](https://alexiswinters.tech)
 
 <h2 align="left">💻 IT Projects</h2>
-- [Active Directory Home Lab](https://github.com/alexiswinters21) in progress
+- [Active Directory Home Lab](https://github.com/alexiscodes21) in progress
 
 
 <h2 align="left">📃 Certifications</h2>
