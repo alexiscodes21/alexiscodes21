@@ -9,9 +9,9 @@
 
 <h2 align="left">📃 Certifications and Courses</h2>
 
-- [My Credly Account](https://www.credly.com/users/alexis-winters/badges)
+- [My Credly Profile](https://www.credly.com/users/alexis-winters/badges)
 
-- [IT Support Professional - Google by Coursera](https://github.com/alexiscodes21) need to update
+- [IT Support Professional - Google by Coursera]([https://github.com/alexiscodes21](https://github.com/alexiscodes21/certificates-and-courses/blob/main/Google%20IT%20Support.pdf))
 
 - [Full Stack Web and Mobile Development - Nucamp Coding Bootcamp](https://github.com/alexiscodes21) need to update
 
