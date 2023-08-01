@@ -7,19 +7,15 @@
 - [Active Directory Home Lab](https://github.com/alexiscodes21) in progress
 
 
-<h2 align="left">📃 Certifications and Courses</h2>
+<h2 align="left">📃 Certificates</h2>
 
 - [My Credly Profile](https://www.credly.com/users/alexis-winters/badges)
 
 - [IT Support Professional - Google by Coursera](https://github.com/alexiscodes21/certificates-and-courses/blob/main/Google%20IT%20Support.pdf)
 
-- [Full Stack Web and Mobile Development - Nucamp Coding Bootcamp](https://github.com/alexiscodes21) need to update
+- [Full Stack Web and Mobile Development - Nucamp Coding Bootcamp](https://github.com/alexiscodes21/certificates-and-courses/blob/main/FullStack.pdf)
 
-- [Introduction to SQL - Codecademy](https://github.com/alexiscodes21) need to update
-
-- [Introduction to Cybersecurity - Codecademy](https://github.com/alexiscodes21) need to update
-
-- [PMI Certified Associate in Project Management](https://github.com/alexiscodes21) need to update
+- [PMI Certified Associate in Project Management](https://github.com/alexiscodes21/certificates-and-courses/blob/main/PMI-CAPM.pdf)
 
 
 <h2 align="left">💁🏽‍♀️ More About Me</h2>
