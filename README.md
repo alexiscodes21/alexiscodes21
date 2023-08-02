@@ -4,7 +4,7 @@
 
 <h2 align="left">💻 IT Projects</h2>
 
-- [Active Directory Home Lab](https://github.com/alexiscodes21) in progress
+- [Active Directory Home Lab](https://github.com/alexiscodes21/active-directory-home-lab) in progress
 
 
 <h2 align="left">📃 Certificates</h2>
