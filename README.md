@@ -34,6 +34,8 @@
 <a href="https://www.leetcode.com/alexiscodes21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexiscodes21" height="30" width="40" /></a>
 </p>
 
+<h2 align="left">🛠 Technical Skills</h2>
+<p align="left">Active Directory, Troubleshooting, Debugging, Operating Systems, DNS, VPNs, Cloud Computing, Software Installation, Command Line</p>
 
 <h2 align="left">🛠 Languages, Libraries, Frameworks</h2>
 <p align="left">
