@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Alexis Winters</h1>
-<h2 align="center">a software engineer based in Virginia.</h2>
+<h2 align="center">a software engineer and recent coding bootcamp graduate based in Virginia.</h2>
 
 <h2 align="left">📃 Certificates</h2>
 
@@ -14,11 +14,16 @@
 
 <h2 align="left">💁🏽‍♀️ More About Me</h2>
 
-- 🔭 I’m currently working on the **Google Cybersecurity Professional certificate**
+
+- 🔭 I’m currently working on **the Google IT Automation with Python certificate**
+
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **any software development projects**
 
-- 👨‍💻 My web developer portfolio is available at [https://alexiswinters.tech](https://alexiswinters.tech)
+- 👨‍💻 All of my projects are available at [https://alexiswinters.tech](https://alexiswinters.tech)
+
+- ⚡ Fun fact **I lived in China**
 
 
 <h2 align="left">🤳🏽 Connect with me</h2>
