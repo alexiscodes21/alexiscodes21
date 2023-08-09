@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Alexis Winters</h1>
-<h2 align="center">an IT Support Specialist and Web Developer based in Virginia.</h3>
-<h4 align="center">I love to work on web development projects for fun and it has become one of my hobbies. But my main passion and goal has been to work in IT/Cybersecurity.</h4>
-
-<h2 align="left">💻 IT Projects</h2>
-
-- [Active Directory Home Lab](https://github.com/alexiscodes21/active-directory-home-lab) in progress
-
+<h2 align="center">a software engineer based in Virginia.</h3>
 
 <h2 align="left">📃 Certificates</h2>
 
