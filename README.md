@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Alexis Winters</h1>
-<h2 align="center">a software engineer based in Virginia.</h3>
+<h2 align="center">a software engineer based in Virginia.</h2>
 
 <h2 align="left">📃 Certificates</h2>
 
