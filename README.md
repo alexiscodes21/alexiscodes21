@@ -9,19 +9,13 @@
 
 - [Full Stack Web and Mobile Development - Nucamp Coding Bootcamp](https://github.com/alexiscodes21/certificates-and-courses/blob/main/FullStack.pdf)
 
-- [PMI Certified Associate in Project Management](https://github.com/alexiscodes21/certificates-and-courses/blob/main/PMI-CAPM.pdf)
-
 
 <h2 align="left">💁🏽‍♀️ More About Me</h2>
 
 
-- 🔭 I’m currently working on **the Google IT Automation with Python certificate**
+- 🔭 I’m currently studying for the **CompTIA A+**
 
 - 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **any software development projects**
-
-- 👨‍💻 All of my projects are available at [https://alexiswinters.tech](https://alexiswinters.tech)
 
 - ⚡ Fun fact **I lived in China**
 
