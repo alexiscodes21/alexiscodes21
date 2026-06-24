@@ -3,8 +3,6 @@
 
 <h2 align="left">📃 Certificates</h2>
 
-- [My Credly Profile](https://www.credly.com/users/alexis-winters/badges)
-
 - [IT Support Professional - Google by Coursera](https://github.com/alexiscodes21/certificates-and-courses/blob/main/Google%20IT%20Support.pdf)
 
 - [Full Stack Web and Mobile Development - Nucamp Coding Bootcamp](https://github.com/alexiscodes21/certificates-and-courses/blob/main/FullStack.pdf)
@@ -16,9 +14,3 @@
 
 <h2 align="left">🛠 Technical Skills</h2>
 <p align="left">Active Directory, Azure, Ticking Systems, VPNs, DNS, Troubleshooting, Debugging, Command Line</p>
-
-
-
-
-
-
